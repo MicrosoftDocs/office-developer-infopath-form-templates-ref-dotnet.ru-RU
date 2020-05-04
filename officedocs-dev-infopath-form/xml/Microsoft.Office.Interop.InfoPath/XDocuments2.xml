@@ -1,13 +1,5 @@
 <Type Name="XDocuments2" FullName="Microsoft.Office.Interop.InfoPath.XDocuments2">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="42da494a8df6b0f1e0768c16af5c52fc7e8d7a8f" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21042266" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface XDocuments2 : Microsoft.Office.Interop.InfoPath.XDocuments" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="42da494a8df6b0f1e0768c16af5c52fc7e8d7a8f" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21042266" /></Metadata><TypeSignature Language="C#" Value="public interface XDocuments2 : Microsoft.Office.Interop.InfoPath.XDocuments" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract XDocuments2 implements class Microsoft.Office.Interop.InfoPath.XDocuments" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.XDocuments2" />
   <TypeSignature Language="VB.NET" Value="Public Interface XDocuments2&#xA;Implements XDocuments" />

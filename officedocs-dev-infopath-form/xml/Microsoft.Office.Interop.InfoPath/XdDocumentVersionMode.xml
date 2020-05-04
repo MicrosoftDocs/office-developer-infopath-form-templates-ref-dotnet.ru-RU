@@ -1,13 +1,5 @@
 <Type Name="XdDocumentVersionMode" FullName="Microsoft.Office.Interop.InfoPath.XdDocumentVersionMode">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="6d49dda0dd04ce25df7d220454e07f3e1f686bf0" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21042245" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum XdDocumentVersionMode" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="6d49dda0dd04ce25df7d220454e07f3e1f686bf0" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21042245" /></Metadata><TypeSignature Language="C#" Value="public enum XdDocumentVersionMode" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed XdDocumentVersionMode extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.XdDocumentVersionMode" />
   <TypeSignature Language="VB.NET" Value="Public Enum XdDocumentVersionMode" />

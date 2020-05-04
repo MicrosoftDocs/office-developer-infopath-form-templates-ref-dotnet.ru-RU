@@ -1,13 +1,5 @@
 <Type Name="DataAdaptersCollection" FullName="Microsoft.Office.Interop.InfoPath.DataAdaptersCollection">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="81856e0819a5d2fdbfaefbf340dd483c553adc8a" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21041930" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface DataAdaptersCollection : Microsoft.Office.Interop.InfoPath.DataAdapters" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="81856e0819a5d2fdbfaefbf340dd483c553adc8a" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21041930" /></Metadata><TypeSignature Language="C#" Value="public interface DataAdaptersCollection : Microsoft.Office.Interop.InfoPath.DataAdapters" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract DataAdaptersCollection implements class Microsoft.Office.Interop.InfoPath.DataAdapters" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.DataAdaptersCollection" />
   <TypeSignature Language="VB.NET" Value="Public Interface DataAdaptersCollection&#xA;Implements DataAdapters" />

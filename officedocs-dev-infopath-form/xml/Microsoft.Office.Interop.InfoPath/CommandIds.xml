@@ -1,13 +1,5 @@
 <Type Name="CommandIds" FullName="Microsoft.Office.Interop.InfoPath.CommandIds">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="46c1ad8b74d3b2708230c89166cba6632f35b020" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21039809" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum CommandIds" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="46c1ad8b74d3b2708230c89166cba6632f35b020" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21039809" /></Metadata><TypeSignature Language="C#" Value="public enum CommandIds" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed CommandIds extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.CommandIds" />
   <TypeSignature Language="VB.NET" Value="Public Enum CommandIds" />

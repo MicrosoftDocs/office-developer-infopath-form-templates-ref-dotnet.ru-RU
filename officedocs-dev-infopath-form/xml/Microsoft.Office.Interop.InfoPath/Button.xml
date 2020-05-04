@@ -1,13 +1,5 @@
 <Type Name="Button" FullName="Microsoft.Office.Interop.InfoPath.Button">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="2736ad15df8078e17439d18be76ae840ffe12ec6" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21043071" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Button : Microsoft.Office.Interop.InfoPath._ButtonEventSink_Event, Microsoft.Office.Interop.InfoPath.ButtonEmpty" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="2736ad15df8078e17439d18be76ae840ffe12ec6" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21043071" /></Metadata><TypeSignature Language="C#" Value="public interface Button : Microsoft.Office.Interop.InfoPath._ButtonEventSink_Event, Microsoft.Office.Interop.InfoPath.ButtonEmpty" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Button implements class Microsoft.Office.Interop.InfoPath._ButtonEventSink_Event, class Microsoft.Office.Interop.InfoPath.ButtonEmpty" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.Button" />
   <TypeSignature Language="VB.NET" Value="Public Interface Button&#xA;Implements _ButtonEventSink_Event, ButtonEmpty" />

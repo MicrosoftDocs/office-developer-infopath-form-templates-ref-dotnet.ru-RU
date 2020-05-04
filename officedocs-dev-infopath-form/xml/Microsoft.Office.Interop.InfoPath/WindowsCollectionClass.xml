@@ -1,13 +1,5 @@
 <Type Name="WindowsCollectionClass" FullName="Microsoft.Office.Interop.InfoPath.WindowsCollectionClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="237ed3e6b2aebeadaac4930a82dd05212118e272" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21042196" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class WindowsCollectionClass : Microsoft.Office.Interop.InfoPath.WindowsCollection, System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="237ed3e6b2aebeadaac4930a82dd05212118e272" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21042196" /></Metadata><TypeSignature Language="C#" Value="public class WindowsCollectionClass : Microsoft.Office.Interop.InfoPath.WindowsCollection, System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi WindowsCollectionClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.Windows, class Microsoft.Office.Interop.InfoPath.WindowsCollection, class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.WindowsCollectionClass" />
   <TypeSignature Language="VB.NET" Value="Public Class WindowsCollectionClass&#xA;Implements IEnumerable, WindowsCollection" />

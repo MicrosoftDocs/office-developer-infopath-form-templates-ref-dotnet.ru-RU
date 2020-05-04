@@ -1,13 +1,5 @@
 <Type Name="ServerInfo" FullName="Microsoft.Office.Interop.InfoPath.ServerInfo">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="d34450c1191a30505f837acf4d2ccc3eb0054115" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21040859" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface ServerInfo" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="d34450c1191a30505f837acf4d2ccc3eb0054115" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21040859" /></Metadata><TypeSignature Language="C#" Value="public interface ServerInfo" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract ServerInfo" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.ServerInfo" />
   <TypeSignature Language="VB.NET" Value="Public Interface ServerInfo" />

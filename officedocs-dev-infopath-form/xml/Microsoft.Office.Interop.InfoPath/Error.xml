@@ -1,13 +1,5 @@
 <Type Name="Error" FullName="Microsoft.Office.Interop.InfoPath.Error">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="83786de8837c40994d0d4e92269cafb07ad450cf" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21042469" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Error" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="83786de8837c40994d0d4e92269cafb07ad450cf" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21042469" /></Metadata><TypeSignature Language="C#" Value="public interface Error" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Error" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.Error" />
   <TypeSignature Language="VB.NET" Value="Public Interface Error" />

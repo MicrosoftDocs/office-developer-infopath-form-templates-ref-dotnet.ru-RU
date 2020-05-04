@@ -1,13 +1,5 @@
 <Type Name="InfoPathControl2" FullName="Microsoft.Office.Interop.InfoPath.InfoPathControl2">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="fbcfa746613a54c362614073e1b98230a50cd59c" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21042581" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface InfoPathControl2 : Microsoft.Office.Interop.InfoPath.InfoPathControl" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="fbcfa746613a54c362614073e1b98230a50cd59c" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21042581" /></Metadata><TypeSignature Language="C#" Value="public interface InfoPathControl2 : Microsoft.Office.Interop.InfoPath.InfoPathControl" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract InfoPathControl2 implements class Microsoft.Office.Interop.InfoPath.InfoPathControl" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.InfoPathControl2" />
   <TypeSignature Language="VB.NET" Value="Public Interface InfoPathControl2&#xA;Implements InfoPathControl" />

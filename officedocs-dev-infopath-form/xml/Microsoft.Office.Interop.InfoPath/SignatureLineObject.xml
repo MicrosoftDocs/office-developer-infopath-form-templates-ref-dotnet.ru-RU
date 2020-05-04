@@ -1,13 +1,5 @@
 <Type Name="SignatureLineObject" FullName="Microsoft.Office.Interop.InfoPath.SignatureLineObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="a1bed64229f254661ab2c1e0eb8f6044ae13b6e4" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21042049" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface SignatureLineObject : Microsoft.Office.Interop.InfoPath.SignatureLine" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="a1bed64229f254661ab2c1e0eb8f6044ae13b6e4" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21042049" /></Metadata><TypeSignature Language="C#" Value="public interface SignatureLineObject : Microsoft.Office.Interop.InfoPath.SignatureLine" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract SignatureLineObject implements class Microsoft.Office.Interop.InfoPath.SignatureLine" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SignatureLineObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface SignatureLineObject&#xA;Implements SignatureLine" />

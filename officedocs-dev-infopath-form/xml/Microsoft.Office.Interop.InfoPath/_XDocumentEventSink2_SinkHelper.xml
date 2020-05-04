@@ -1,13 +1,5 @@
 <Type Name="_XDocumentEventSink2_SinkHelper" FullName="Microsoft.Office.Interop.InfoPath._XDocumentEventSink2_SinkHelper">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="e457b1aa570b03041748a8f0af3f920feead71c2" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21039802" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public sealed class _XDocumentEventSink2_SinkHelper : Microsoft.Office.Interop.InfoPath._XDocumentEventSink2" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="e457b1aa570b03041748a8f0af3f920feead71c2" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21039802" /></Metadata><TypeSignature Language="C#" Value="public sealed class _XDocumentEventSink2_SinkHelper : Microsoft.Office.Interop.InfoPath._XDocumentEventSink2" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed _XDocumentEventSink2_SinkHelper extends System.Object implements class Microsoft.Office.Interop.InfoPath._XDocumentEventSink2" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath._XDocumentEventSink2_SinkHelper" />
   <TypeSignature Language="VB.NET" Value="Public NotInheritable Class _XDocumentEventSink2_SinkHelper&#xA;Implements _XDocumentEventSink2" />

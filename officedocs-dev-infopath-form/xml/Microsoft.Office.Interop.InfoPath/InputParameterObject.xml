@@ -1,13 +1,5 @@
 <Type Name="InputParameterObject" FullName="Microsoft.Office.Interop.InfoPath.InputParameterObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="451a7ce4a997bc75b60b2d6ed9e5e5fa177248c6" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21041790" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface InputParameterObject : Microsoft.Office.Interop.InfoPath.InputParameter" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="451a7ce4a997bc75b60b2d6ed9e5e5fa177248c6" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21041790" /></Metadata><TypeSignature Language="C#" Value="public interface InputParameterObject : Microsoft.Office.Interop.InfoPath.InputParameter" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract InputParameterObject implements class Microsoft.Office.Interop.InfoPath.InputParameter" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.InputParameterObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface InputParameterObject&#xA;Implements InputParameter" />

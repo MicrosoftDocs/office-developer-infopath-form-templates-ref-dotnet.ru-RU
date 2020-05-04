@@ -1,13 +1,5 @@
 <Type Name="IPropertyBag" FullName="Microsoft.Office.Interop.InfoPath.IPropertyBag">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="a423820393a43f682eb5ca2d2a810704bd345542" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21042455" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface IPropertyBag" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="a423820393a43f682eb5ca2d2a810704bd345542" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21042455" /></Metadata><TypeSignature Language="C#" Value="public interface IPropertyBag" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract IPropertyBag" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.IPropertyBag" />
   <TypeSignature Language="VB.NET" Value="Public Interface IPropertyBag" />

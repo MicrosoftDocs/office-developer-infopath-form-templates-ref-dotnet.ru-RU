@@ -1,13 +1,5 @@
 <Type Name="WebServiceAdapterObject" FullName="Microsoft.Office.Interop.InfoPath.WebServiceAdapterObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="4c77b5c0f4cefbcd7485c2ff4b4ffeea2fb37ab3" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21042189" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface WebServiceAdapterObject : Microsoft.Office.Interop.InfoPath.WebServiceAdapter2" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="4c77b5c0f4cefbcd7485c2ff4b4ffeea2fb37ab3" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21042189" /></Metadata><TypeSignature Language="C#" Value="public interface WebServiceAdapterObject : Microsoft.Office.Interop.InfoPath.WebServiceAdapter2" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract WebServiceAdapterObject implements class Microsoft.Office.Interop.InfoPath.WebServiceAdapter2" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.WebServiceAdapterObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface WebServiceAdapterObject&#xA;Implements WebServiceAdapter2" />

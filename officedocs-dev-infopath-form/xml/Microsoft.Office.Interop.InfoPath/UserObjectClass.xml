@@ -1,13 +1,5 @@
 <Type Name="UserObjectClass" FullName="Microsoft.Office.Interop.InfoPath.UserObjectClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="7f46cc92e2eff7d92b6a8f33643be2b02d87d15c" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21039718" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class UserObjectClass : Microsoft.Office.Interop.InfoPath.User2, Microsoft.Office.Interop.InfoPath.UserObject" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="7f46cc92e2eff7d92b6a8f33643be2b02d87d15c" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21039718" /></Metadata><TypeSignature Language="C#" Value="public class UserObjectClass : Microsoft.Office.Interop.InfoPath.User2, Microsoft.Office.Interop.InfoPath.UserObject" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi UserObjectClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.User, class Microsoft.Office.Interop.InfoPath.User2, class Microsoft.Office.Interop.InfoPath.UserObject" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.UserObjectClass" />
   <TypeSignature Language="VB.NET" Value="Public Class UserObjectClass&#xA;Implements User2, UserObject" />

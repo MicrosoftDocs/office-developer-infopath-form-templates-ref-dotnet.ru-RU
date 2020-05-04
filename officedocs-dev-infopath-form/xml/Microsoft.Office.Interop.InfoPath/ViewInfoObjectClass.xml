@@ -1,13 +1,5 @@
 <Type Name="ViewInfoObjectClass" FullName="Microsoft.Office.Interop.InfoPath.ViewInfoObjectClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="743dd11e9dc571a6ee9e3ec2d672b88f235a9c34" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21041230" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class ViewInfoObjectClass : Microsoft.Office.Interop.InfoPath.ViewInfo2, Microsoft.Office.Interop.InfoPath.ViewInfoObject" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="743dd11e9dc571a6ee9e3ec2d672b88f235a9c34" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21041230" /></Metadata><TypeSignature Language="C#" Value="public class ViewInfoObjectClass : Microsoft.Office.Interop.InfoPath.ViewInfo2, Microsoft.Office.Interop.InfoPath.ViewInfoObject" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi ViewInfoObjectClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.ViewInfo, class Microsoft.Office.Interop.InfoPath.ViewInfo2, class Microsoft.Office.Interop.InfoPath.ViewInfoObject" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.ViewInfoObjectClass" />
   <TypeSignature Language="VB.NET" Value="Public Class ViewInfoObjectClass&#xA;Implements ViewInfo2, ViewInfoObject" />
