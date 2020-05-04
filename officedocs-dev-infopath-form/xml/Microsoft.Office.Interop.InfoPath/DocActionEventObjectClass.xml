@@ -1,13 +1,5 @@
 <Type Name="DocActionEventObjectClass" FullName="Microsoft.Office.Interop.InfoPath.DocActionEventObjectClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="307e08f6152fdb659dcf42ba96182cca6f2344c7" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21042413" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class DocActionEventObjectClass : Microsoft.Office.Interop.InfoPath.DocActionEventObject" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="307e08f6152fdb659dcf42ba96182cca6f2344c7" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21042413" /></Metadata><TypeSignature Language="C#" Value="public class DocActionEventObjectClass : Microsoft.Office.Interop.InfoPath.DocActionEventObject" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi DocActionEventObjectClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.DocActionEvent, class Microsoft.Office.Interop.InfoPath.DocActionEventObject" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.DocActionEventObjectClass" />
   <TypeSignature Language="VB.NET" Value="Public Class DocActionEventObjectClass&#xA;Implements DocActionEventObject" />

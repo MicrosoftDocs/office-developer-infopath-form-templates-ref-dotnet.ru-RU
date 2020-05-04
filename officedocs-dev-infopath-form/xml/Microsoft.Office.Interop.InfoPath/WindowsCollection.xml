@@ -1,13 +1,5 @@
 <Type Name="WindowsCollection" FullName="Microsoft.Office.Interop.InfoPath.WindowsCollection">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="b098e6aaa12635b1ee71bfcd1c23c4922b2d8d10" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21041860" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface WindowsCollection : Microsoft.Office.Interop.InfoPath.Windows" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="b098e6aaa12635b1ee71bfcd1c23c4922b2d8d10" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21041860" /></Metadata><TypeSignature Language="C#" Value="public interface WindowsCollection : Microsoft.Office.Interop.InfoPath.Windows" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract WindowsCollection implements class Microsoft.Office.Interop.InfoPath.Windows" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.WindowsCollection" />
   <TypeSignature Language="VB.NET" Value="Public Interface WindowsCollection&#xA;Implements Windows" />

@@ -1,13 +1,5 @@
 <Type Name="WindowObjectClass" FullName="Microsoft.Office.Interop.InfoPath.WindowObjectClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="df742437c59037368a1f6ade40aaf7094430553a" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21041944" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class WindowObjectClass : Microsoft.Office.Interop.InfoPath.WindowObject" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="df742437c59037368a1f6ade40aaf7094430553a" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21041944" /></Metadata><TypeSignature Language="C#" Value="public class WindowObjectClass : Microsoft.Office.Interop.InfoPath.WindowObject" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi WindowObjectClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.Window, class Microsoft.Office.Interop.InfoPath.Window2, class Microsoft.Office.Interop.InfoPath.WindowObject" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.WindowObjectClass" />
   <TypeSignature Language="VB.NET" Value="Public Class WindowObjectClass&#xA;Implements WindowObject" />

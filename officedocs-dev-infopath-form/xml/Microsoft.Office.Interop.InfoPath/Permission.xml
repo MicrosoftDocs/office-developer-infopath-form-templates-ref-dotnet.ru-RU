@@ -1,13 +1,5 @@
 <Type Name="Permission" FullName="Microsoft.Office.Interop.InfoPath.Permission">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="1a37272c446563b65d2e339a5e28869a1841fce9" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21040565" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Permission : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="1a37272c446563b65d2e339a5e28869a1841fce9" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21040565" /></Metadata><TypeSignature Language="C#" Value="public interface Permission : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Permission implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.Permission" />
   <TypeSignature Language="VB.NET" Value="Public Interface Permission&#xA;Implements IEnumerable" />

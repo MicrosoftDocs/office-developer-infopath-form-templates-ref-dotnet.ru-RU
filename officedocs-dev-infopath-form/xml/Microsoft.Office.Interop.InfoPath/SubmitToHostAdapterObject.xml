@@ -1,13 +1,5 @@
 <Type Name="SubmitToHostAdapterObject" FullName="Microsoft.Office.Interop.InfoPath.SubmitToHostAdapterObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="a070d080f2701c3b3f4068a7d92ca558441630dd" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21040698" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface SubmitToHostAdapterObject : Microsoft.Office.Interop.InfoPath.SubmitToHostAdapter" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="a070d080f2701c3b3f4068a7d92ca558441630dd" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21040698" /></Metadata><TypeSignature Language="C#" Value="public interface SubmitToHostAdapterObject : Microsoft.Office.Interop.InfoPath.SubmitToHostAdapter" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract SubmitToHostAdapterObject implements class Microsoft.Office.Interop.InfoPath.SubmitToHostAdapter" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SubmitToHostAdapterObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface SubmitToHostAdapterObject&#xA;Implements SubmitToHostAdapter" />

@@ -1,13 +1,5 @@
 <Type Name="SharepointListAdapterObjectClass" FullName="Microsoft.Office.Interop.InfoPath.SharepointListAdapterObjectClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="edfb6af73ae0d11831611c01067af32597627d54" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21040957" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class SharepointListAdapterObjectClass : Microsoft.Office.Interop.InfoPath.IDataAdapterMOM, Microsoft.Office.Interop.InfoPath.SharepointListAdapter2, Microsoft.Office.Interop.InfoPath.SharepointListAdapterObject" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="edfb6af73ae0d11831611c01067af32597627d54" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21040957" /></Metadata><TypeSignature Language="C#" Value="public class SharepointListAdapterObjectClass : Microsoft.Office.Interop.InfoPath.IDataAdapterMOM, Microsoft.Office.Interop.InfoPath.SharepointListAdapter2, Microsoft.Office.Interop.InfoPath.SharepointListAdapterObject" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi SharepointListAdapterObjectClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.IDataAdapterMOM, class Microsoft.Office.Interop.InfoPath.SharepointListAdapter, class Microsoft.Office.Interop.InfoPath.SharepointListAdapter2, class Microsoft.Office.Interop.InfoPath.SharepointListAdapterObject" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SharepointListAdapterObjectClass" />
   <TypeSignature Language="VB.NET" Value="Public Class SharepointListAdapterObjectClass&#xA;Implements IDataAdapterMOM, SharepointListAdapter2, SharepointListAdapterObject" />

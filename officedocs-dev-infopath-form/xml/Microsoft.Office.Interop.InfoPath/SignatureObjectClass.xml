@@ -1,13 +1,5 @@
 <Type Name="SignatureObjectClass" FullName="Microsoft.Office.Interop.InfoPath.SignatureObjectClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="d46dae989820e4c4cf8d3833a80aeabd91dbe908" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21040635" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class SignatureObjectClass : Microsoft.Office.Interop.InfoPath.SignatureObject" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="d46dae989820e4c4cf8d3833a80aeabd91dbe908" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21040635" /></Metadata><TypeSignature Language="C#" Value="public class SignatureObjectClass : Microsoft.Office.Interop.InfoPath.SignatureObject" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi SignatureObjectClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.Signature, class Microsoft.Office.Interop.InfoPath.SignatureObject" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SignatureObjectClass" />
   <TypeSignature Language="VB.NET" Value="Public Class SignatureObjectClass&#xA;Implements SignatureObject" />

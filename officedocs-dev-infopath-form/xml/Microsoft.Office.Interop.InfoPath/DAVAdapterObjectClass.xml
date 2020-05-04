@@ -1,13 +1,5 @@
 <Type Name="DAVAdapterObjectClass" FullName="Microsoft.Office.Interop.InfoPath.DAVAdapterObjectClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="d1b40fc7ad87f06a337f535aeafdff24774a339a" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21039550" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class DAVAdapterObjectClass : Microsoft.Office.Interop.InfoPath.DAVAdapterObject" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="d1b40fc7ad87f06a337f535aeafdff24774a339a" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21039550" /></Metadata><TypeSignature Language="C#" Value="public class DAVAdapterObjectClass : Microsoft.Office.Interop.InfoPath.DAVAdapterObject" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi DAVAdapterObjectClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.DAVAdapter, class Microsoft.Office.Interop.InfoPath.DAVAdapterObject" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.DAVAdapterObjectClass" />
   <TypeSignature Language="VB.NET" Value="Public Class DAVAdapterObjectClass&#xA;Implements DAVAdapterObject" />

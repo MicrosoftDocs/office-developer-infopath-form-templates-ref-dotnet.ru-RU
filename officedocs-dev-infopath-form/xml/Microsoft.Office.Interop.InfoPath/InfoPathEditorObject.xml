@@ -1,13 +1,5 @@
 <Type Name="InfoPathEditorObject" FullName="Microsoft.Office.Interop.InfoPath.InfoPathEditorObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="3ba8036d722f79dfa84055fa16166e30fddd7b06" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21039788" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface InfoPathEditorObject : Microsoft.Office.Interop.InfoPath.InfoPathEditor" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="3ba8036d722f79dfa84055fa16166e30fddd7b06" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21039788" /></Metadata><TypeSignature Language="C#" Value="public interface InfoPathEditorObject : Microsoft.Office.Interop.InfoPath.InfoPathEditor" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract InfoPathEditorObject implements class Microsoft.Office.Interop.InfoPath.InfoPathEditor" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.InfoPathEditorObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface InfoPathEditorObject&#xA;Implements InfoPathEditor" />

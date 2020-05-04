@@ -1,13 +1,5 @@
 <Type Name="BDCAdapterObject" FullName="Microsoft.Office.Interop.InfoPath.BDCAdapterObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="1b261de61abfd1bbd1472e4f351a7ded4c789f3e" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21040537" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface BDCAdapterObject : Microsoft.Office.Interop.InfoPath.BDCAdapter" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="1b261de61abfd1bbd1472e4f351a7ded4c789f3e" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21040537" /></Metadata><TypeSignature Language="C#" Value="public interface BDCAdapterObject : Microsoft.Office.Interop.InfoPath.BDCAdapter" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract BDCAdapterObject implements class Microsoft.Office.Interop.InfoPath.BDCAdapter" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.BDCAdapterObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface BDCAdapterObject&#xA;Implements BDCAdapter" />

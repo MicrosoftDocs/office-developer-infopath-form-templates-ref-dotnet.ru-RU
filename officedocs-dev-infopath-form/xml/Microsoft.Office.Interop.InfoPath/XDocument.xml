@@ -1,13 +1,5 @@
 <Type Name="XDocument" FullName="Microsoft.Office.Interop.InfoPath.XDocument">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="39836082d7de7ce9b4911a48310403a9e84a5aaf" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21039529" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface XDocument : Microsoft.Office.Interop.InfoPath._XDocument2, Microsoft.Office.Interop.InfoPath._XDocumentEventSink2_Event" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="39836082d7de7ce9b4911a48310403a9e84a5aaf" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21039529" /></Metadata><TypeSignature Language="C#" Value="public interface XDocument : Microsoft.Office.Interop.InfoPath._XDocument2, Microsoft.Office.Interop.InfoPath._XDocumentEventSink2_Event" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract XDocument implements class Microsoft.Office.Interop.InfoPath._XDocument2, class Microsoft.Office.Interop.InfoPath._XDocumentEventSink2_Event" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.XDocument" />
   <TypeSignature Language="VB.NET" Value="Public Interface XDocument&#xA;Implements _XDocument2, _XDocumentEventSink2_Event" />

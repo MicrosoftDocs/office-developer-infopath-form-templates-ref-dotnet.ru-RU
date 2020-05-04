@@ -1,13 +1,5 @@
 <Type Name="View2" FullName="Microsoft.Office.Interop.InfoPath.View2">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="900b05e67629b28cd30fc2d49b844780e326e2b7" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21040754" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface View2 : Microsoft.Office.Interop.InfoPath.View" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="900b05e67629b28cd30fc2d49b844780e326e2b7" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21040754" /></Metadata><TypeSignature Language="C#" Value="public interface View2 : Microsoft.Office.Interop.InfoPath.View" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract View2 implements class Microsoft.Office.Interop.InfoPath.View" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.View2" />
   <TypeSignature Language="VB.NET" Value="Public Interface View2&#xA;Implements View" />

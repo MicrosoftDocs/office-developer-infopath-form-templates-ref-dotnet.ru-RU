@@ -1,13 +1,5 @@
 <Type Name="SolutionObjectClass" FullName="Microsoft.Office.Interop.InfoPath.SolutionObjectClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="127e948d84a21373ceb552fb2fbc131d877330a8" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21040999" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class SolutionObjectClass : Microsoft.Office.Interop.InfoPath.Solution2, Microsoft.Office.Interop.InfoPath.SolutionObject" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="127e948d84a21373ceb552fb2fbc131d877330a8" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21040999" /></Metadata><TypeSignature Language="C#" Value="public class SolutionObjectClass : Microsoft.Office.Interop.InfoPath.Solution2, Microsoft.Office.Interop.InfoPath.SolutionObject" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi SolutionObjectClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.Solution, class Microsoft.Office.Interop.InfoPath.Solution2, class Microsoft.Office.Interop.InfoPath.SolutionObject" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SolutionObjectClass" />
   <TypeSignature Language="VB.NET" Value="Public Class SolutionObjectClass&#xA;Implements Solution2, SolutionObject" />

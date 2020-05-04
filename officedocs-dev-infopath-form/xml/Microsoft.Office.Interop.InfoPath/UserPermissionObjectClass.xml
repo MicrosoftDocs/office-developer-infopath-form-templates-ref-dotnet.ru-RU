@@ -1,13 +1,5 @@
 <Type Name="UserPermissionObjectClass" FullName="Microsoft.Office.Interop.InfoPath.UserPermissionObjectClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="34a8c49f7855e93f87b5c4d8abb3d70143741adc" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21041160" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class UserPermissionObjectClass : Microsoft.Office.Interop.InfoPath.UserPermissionObject" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="34a8c49f7855e93f87b5c4d8abb3d70143741adc" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21041160" /></Metadata><TypeSignature Language="C#" Value="public class UserPermissionObjectClass : Microsoft.Office.Interop.InfoPath.UserPermissionObject" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi UserPermissionObjectClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.UserPermission, class Microsoft.Office.Interop.InfoPath.UserPermissionObject" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.UserPermissionObjectClass" />
   <TypeSignature Language="VB.NET" Value="Public Class UserPermissionObjectClass&#xA;Implements UserPermissionObject" />

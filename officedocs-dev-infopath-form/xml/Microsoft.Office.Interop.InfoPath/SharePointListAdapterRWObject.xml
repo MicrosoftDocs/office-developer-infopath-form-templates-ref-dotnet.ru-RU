@@ -1,13 +1,5 @@
 <Type Name="SharePointListAdapterRWObject" FullName="Microsoft.Office.Interop.InfoPath.SharePointListAdapterRWObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="1dd781c301e6f03bd6049248800033f5252cfe40" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21040880" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface SharePointListAdapterRWObject : Microsoft.Office.Interop.InfoPath.SharePointListAdapterRW" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="1dd781c301e6f03bd6049248800033f5252cfe40" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21040880" /></Metadata><TypeSignature Language="C#" Value="public interface SharePointListAdapterRWObject : Microsoft.Office.Interop.InfoPath.SharePointListAdapterRW" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract SharePointListAdapterRWObject implements class Microsoft.Office.Interop.InfoPath.SharePointListAdapterRW" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SharePointListAdapterRWObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface SharePointListAdapterRWObject&#xA;Implements SharePointListAdapterRW" />

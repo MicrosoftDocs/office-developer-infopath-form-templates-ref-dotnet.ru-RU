@@ -1,13 +1,5 @@
 <Type Name="XdConfirmChoice" FullName="Microsoft.Office.Interop.InfoPath.XdConfirmChoice">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="0fa3418247717a936335eea5806747374d59268c" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21039648" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum XdConfirmChoice" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="0fa3418247717a936335eea5806747374d59268c" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21039648" /></Metadata><TypeSignature Language="C#" Value="public enum XdConfirmChoice" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed XdConfirmChoice extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.XdConfirmChoice" />
   <TypeSignature Language="VB.NET" Value="Public Enum XdConfirmChoice" />

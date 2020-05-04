@@ -1,13 +1,5 @@
 <Type Name="ErrorObject" FullName="Microsoft.Office.Interop.InfoPath.ErrorObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="271d87b7441905e017af9f9a94f57f4c66b8b3c0" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21042014" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface ErrorObject : Microsoft.Office.Interop.InfoPath.Error" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="271d87b7441905e017af9f9a94f57f4c66b8b3c0" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21042014" /></Metadata><TypeSignature Language="C#" Value="public interface ErrorObject : Microsoft.Office.Interop.InfoPath.Error" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract ErrorObject implements class Microsoft.Office.Interop.InfoPath.Error" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.ErrorObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface ErrorObject&#xA;Implements Error" />

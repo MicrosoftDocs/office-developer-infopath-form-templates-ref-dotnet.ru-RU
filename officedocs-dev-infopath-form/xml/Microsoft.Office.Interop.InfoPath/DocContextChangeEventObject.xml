@@ -1,13 +1,5 @@
 <Type Name="DocContextChangeEventObject" FullName="Microsoft.Office.Interop.InfoPath.DocContextChangeEventObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="194dd297d2eadacbf7fbb999ecd9c6b8bc8c2f7f" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21039340" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface DocContextChangeEventObject : Microsoft.Office.Interop.InfoPath.DocContextChangeEvent" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="194dd297d2eadacbf7fbb999ecd9c6b8bc8c2f7f" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21039340" /></Metadata><TypeSignature Language="C#" Value="public interface DocContextChangeEventObject : Microsoft.Office.Interop.InfoPath.DocContextChangeEvent" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract DocContextChangeEventObject implements class Microsoft.Office.Interop.InfoPath.DocContextChangeEvent" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.DocContextChangeEventObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface DocContextChangeEventObject&#xA;Implements DocContextChangeEvent" />

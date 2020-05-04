@@ -1,13 +1,5 @@
 <Type Name="ViewInfosCollectionClass" FullName="Microsoft.Office.Interop.InfoPath.ViewInfosCollectionClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="fe319557b2eb996df8f998306379f315768b987c" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21039277" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class ViewInfosCollectionClass : Microsoft.Office.Interop.InfoPath.ViewInfosCollection, System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="fe319557b2eb996df8f998306379f315768b987c" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21039277" /></Metadata><TypeSignature Language="C#" Value="public class ViewInfosCollectionClass : Microsoft.Office.Interop.InfoPath.ViewInfosCollection, System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi ViewInfosCollectionClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.ViewInfos, class Microsoft.Office.Interop.InfoPath.ViewInfosCollection, class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.ViewInfosCollectionClass" />
   <TypeSignature Language="VB.NET" Value="Public Class ViewInfosCollectionClass&#xA;Implements IEnumerable, ViewInfosCollection" />

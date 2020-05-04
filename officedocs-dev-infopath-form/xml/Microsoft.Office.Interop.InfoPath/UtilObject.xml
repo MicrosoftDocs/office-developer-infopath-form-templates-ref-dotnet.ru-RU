@@ -1,13 +1,5 @@
 <Type Name="UtilObject" FullName="Microsoft.Office.Interop.InfoPath.UtilObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="96a65a1331ae436577d674aec4f4cf9a41935ca3" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21041209" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface UtilObject : Microsoft.Office.Interop.InfoPath.Util" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="96a65a1331ae436577d674aec4f4cf9a41935ca3" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21041209" /></Metadata><TypeSignature Language="C#" Value="public interface UtilObject : Microsoft.Office.Interop.InfoPath.Util" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract UtilObject implements class Microsoft.Office.Interop.InfoPath.Util" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.UtilObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface UtilObject&#xA;Implements Util" />

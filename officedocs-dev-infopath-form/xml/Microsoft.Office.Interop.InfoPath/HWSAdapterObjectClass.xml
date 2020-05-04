@@ -1,13 +1,5 @@
 <Type Name="HWSAdapterObjectClass" FullName="Microsoft.Office.Interop.InfoPath.HWSAdapterObjectClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="f61ae7d594e59ca4d5848b6ffc285479f31aed53" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/23/2018" />
-    <Meta Name="ms.locfileid" Value="21042126" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class HWSAdapterObjectClass : Microsoft.Office.Interop.InfoPath.HWSAdapterObject" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="f61ae7d594e59ca4d5848b6ffc285479f31aed53" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/23/2018" /><Meta Name="ms.locfileid" Value="21042126" /></Metadata><TypeSignature Language="C#" Value="public class HWSAdapterObjectClass : Microsoft.Office.Interop.InfoPath.HWSAdapterObject" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi HWSAdapterObjectClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.HWSAdapter, class Microsoft.Office.Interop.InfoPath.HWSAdapterObject" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.HWSAdapterObjectClass" />
   <TypeSignature Language="VB.NET" Value="Public Class HWSAdapterObjectClass&#xA;Implements HWSAdapterObject" />

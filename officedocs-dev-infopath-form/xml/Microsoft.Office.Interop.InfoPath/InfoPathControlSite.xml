@@ -1,13 +1,5 @@
 <Type Name="InfoPathControlSite" FullName="Microsoft.Office.Interop.InfoPath.InfoPathControlSite">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="28c2ca3a9b80046b9ad00ca07ab3ee008da8fae2" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21039655" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface InfoPathControlSite" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="28c2ca3a9b80046b9ad00ca07ab3ee008da8fae2" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21039655" /></Metadata><TypeSignature Language="C#" Value="public interface InfoPathControlSite" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract InfoPathControlSite" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.InfoPathControlSite" />
   <TypeSignature Language="VB.NET" Value="Public Interface InfoPathControlSite" />

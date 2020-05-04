@@ -1,13 +1,5 @@
 <Type Name="IPMath" FullName="Microsoft.Office.Interop.InfoPath.IPMath">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="3fcc81fa6e175251d31a00f0c1153aeae4432ca9" />
-    <Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="08/27/2018" />
-    <Meta Name="ms.locfileid" Value="21041741" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface IPMath" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="3fcc81fa6e175251d31a00f0c1153aeae4432ca9" /><Meta Name="ms.sourcegitcommit" Value="907d8f0097d976421aeaea84e30c7ff8a13e8ebc" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="08/27/2018" /><Meta Name="ms.locfileid" Value="21041741" /></Metadata><TypeSignature Language="C#" Value="public interface IPMath" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract IPMath" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.IPMath" />
   <TypeSignature Language="VB.NET" Value="Public Interface IPMath" />
